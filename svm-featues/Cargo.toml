@@ -1,0 +1,9 @@
+[package]
+name = "svm-featues"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+agave-feature-set.workspace = true
