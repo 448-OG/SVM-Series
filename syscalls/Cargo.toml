@@ -1,0 +1,11 @@
+[package]
+name = "syscalls"
+version.workspace = true
+authors.workspace = true
+edition.workspace = true
+license.workspace = true
+
+[dependencies]
+solana-compute-budget.workspace = true
+solana-bpf-loader-program.workspace = true
+solana-program-runtime.workspace = true
